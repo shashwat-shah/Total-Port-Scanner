@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 ## Options
-![TPScanner Image](/Image.png "TPScanner Image")
+![Image.png](/Image.png "Image.png")
 
 
  
