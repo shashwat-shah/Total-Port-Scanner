@@ -15,7 +15,7 @@
   
 ## TPScaner
  
- This tools is for fast open port scaner.
+ This tool is for fast-open port scanners.
   
 
  
@@ -29,7 +29,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 ## Options
-![TPScanner Image](/tpscaner.png "TPScanner Image")
+![TPScanner Image](/Image.png "TPScanner Image")
 
 
  
