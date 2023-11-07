@@ -29,7 +29,8 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 ## Options
-![Image.png](/Image.png "Image.png")
+![image](https://github.com/shashwat-shah/Total-Port-Scanner/assets/69806791/6844590f-8cf6-4fd9-aeb8-9a6189a919a5)
+
 
 
  
